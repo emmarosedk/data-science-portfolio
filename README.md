@@ -16,4 +16,5 @@ The cornerstone of this portfolio is the research and development associated wit
 
 📫 Contact Me
 LinkedIn: https://www.linkedin.com/in/emma-dennis-knieriem/
+
 Email: emma.dennisknieriem@gmail.com
