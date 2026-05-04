@@ -6,6 +6,8 @@ Dissertation from Master's degree in Data Science and Engineering from Instituto
 ## Files
 - **Dissertation.pdf** - Full dissertation
 - **Abstract.pdf** - Summary of research
+- **Presentation.pdf** - Slides used in dissertation defence
+- **Code** - Folder of code containing data processing pipelines and machine learning models
 
 ## Abstract
 This dissertation contributes to the advancement of predictive modelling in the domain of rail 
