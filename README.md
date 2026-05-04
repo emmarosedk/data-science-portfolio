@@ -15,6 +15,5 @@ The cornerstone of this portfolio is the research and development associated wit
 - Language Skills: English (native speaker), Portuguese (A1)
 
 📫 Contact Me
-LinkedIn: https://www.linkedin.com/in/emma-dennis-knieriem/
-
-Email: emma.dennisknieriem@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emma-dennis-knieriem/
+- Email: emma.dennisknieriem@gmail.com
