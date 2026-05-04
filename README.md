@@ -2,7 +2,8 @@
 
 Welcome to my GitHub portfolio. I am a Data Scientist, specializing in information visualization  to uncover hidden patterns in big datasets, and using machine learning to build data-driving, meaningful solutions.
 
-🎓 Featured Work:
+🎓 Featured Work
+
 The cornerstone of this portfolio is the research and development associated with my Master's degree in Data Science and Engineering from Instituto Superior Técnico.
 
 - Status: Approved, July 2025
